@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**saoudhussaini-sudo/saoudhussaini-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saoud 
 
-Here are some ideas to get you started:
+ **About Me**
+- Beginner lvl Programmer & Developer  
+- Exploring AI, prompt engineering & vibecoding  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Current Goals**
+- Build strong projects  
+- Learn advanced AI + backend  
+- Improve problem-solving  
+
+ **Skills**
+- Python (Basics) 
+- HTML, CSS, JavaScript (Intermidiate) 
+- Flask (Basics) 
+
+ Always learning, always building.
